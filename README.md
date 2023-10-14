@@ -6,11 +6,6 @@ A working Twitter clone built in Flutter using Firebase auth,realtime,firestore 
   <img width="100%" alt="Fwiiter Banner" src="https://user-images.githubusercontent.com/37103237/152671482-885fd940-f4ea-4fb6-8baf-816c17b541d7.png">
 </a>
 
-![Dart CI](https://github.com/TheAlphamerc/flutter_twitter_clone/workflows/Dart%20CI/badge.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_twitter_clone) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_twitter_clone) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_twitter_clone)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_twitter_clone) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_twitter_clone) 
-
-<a href="https://github.com/Solido/awesome-flutter#top">
-   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
-</a>
 
 ## Download App
 <a href="https://play.google.com/store/apps/details?id=com.thealphamerc.flutter_twitter_clone"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
@@ -18,8 +13,8 @@ A working Twitter clone built in Flutter using Firebase auth,realtime,firestore 
 
 
 ## Features
-* App features is mentioned at project section [ Click here](https://github.com/TheAlphamerc/flutter_twitter_clone/projects/1)
-* Messaging chat section status can be seen at [here](https://github.com/TheAlphamerc/flutter_twitter_clone/projects/2)
+* App features is mentioned at project section [ Click here](https://github.com/crazynavi/Fwitter/projects/1)
+* Messaging chat section status can be seen at [here](https://github.com/crazynavi/Fwitter/projects/2)
 
  :boom: Fwitter app now uses both firebase `realtime` and `firestore` database.:boom:
 * In branch **firetore** Fwitter uses `Firestore` database for app. 
@@ -98,8 +93,6 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 
 
-## Getting started 
-* Project setup instructions are given at [Wiki](https://github.com/TheAlphamerc/flutter_twitter_clone/wiki/Gettings-Started) section.
 
 ## Directory Structure
 <details>
@@ -232,33 +225,3 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 ```
 
 </details>
-     
-## Contributing
-
-If you wish to contribute a change to any of the existing feature or add new in this repo,
-please review our [contribution guide](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/CONTRIBUTING.md),
-and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/pulls). I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-## Created & Maintained By
-
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://paypal.me/TheAlphamerc/)
-
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
-
-
-## Contributors
-* [TheAlphamerc](https://github.com/TheAlphamerc/TheAlphamerc)
-* [Liel Beigel](https://github.com/lielb100)
-* [Riccardo Montagnin](https://github.com/RiccardoM)
-* [Suriyan](https://github.com/imsuriyan)
-* [Liel Beigel](https://github.com/lielb100)
-* [Rodriguezv](https://github.com/aa-rodriguezv)
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/flutter_twitter_clone/count.svg" alt ="Loading">
